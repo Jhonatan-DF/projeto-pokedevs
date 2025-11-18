@@ -2,6 +2,7 @@ body {
     font-family: 'font2', sans-serif;
     background-image: url('../images/background.png');
     background-size: cover;
+    background-position: center;
 }
 
 body::before {
@@ -142,7 +143,7 @@ main {
 }
 
 .listagem .pokedev:hover {
-    background-color: #777;
+    background-color: cyan;
     transform: scale(1.2);
 }
 
