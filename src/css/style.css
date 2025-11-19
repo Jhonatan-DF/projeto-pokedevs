@@ -143,14 +143,13 @@ main {
 }
 
 .listagem .pokedev:hover {
-    background-color: cyan;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 
 .listagem .pokedev span {
   padding-right: 20px;
 }
 
-.listagem .pokedev .ativo {
+.listagem .pokedev.ativo {
     background-color: #fa6668;
 }
